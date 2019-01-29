@@ -17,8 +17,8 @@
       <inquery>false</inquery>
       <translation id="0" >
         <text>BÄR</text><!--Translate all text tags content-->
-        <comment>Großes schweres Tier mit dichtem 
-Fell</comment><!--Translate all comment tags content-->
+        <comment>Großes schweres Tier mit dichtem Fell</comment>
+	<!--Translate all comment tags content-->
       </translation>
     </entry>
     <entry id="1" >
@@ -34,7 +34,8 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>ZEBRA</text>
-        <comment>African animal with black and white stripes</comment>
+        <comment>Afrikanisches Tier mit schwarzen und weißen 
+Streifen</comment>
       </translation>
     </entry>
     <entry id="3" >
@@ -42,7 +43,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>KÄNGURUH</text>
-        <comment>Australian jumping animal</comment>
+        <comment>Australisches springendes Beuteltier</comment>
       </translation>
     </entry>
     <entry id="4" >
@@ -50,7 +51,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>WAL</text>
-        <comment>Very large sea mammal</comment>
+        <comment>Sehr großer Meeresäuger</comment>
       </translation>
     </entry>
     <entry id="5" >
@@ -58,7 +59,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>PFERD</text>
-        <comment>Four-legged animal used for riding</comment>
+        <comment>Reittier</comment>
       </translation>
     </entry>
     <entry id="6" >
@@ -66,7 +67,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>AFFE</text>
-        <comment>Closely related to humans</comment>
+        <comment>Unsere nächsten Verwandten</comment>
       </translation>
     </entry>
     <entry id="7" >
@@ -74,7 +75,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>SPECHT</text>
-        <comment>Bird that drills through wood</comment>
+        <comment>Vogel, der an Bäumen klopft</comment>
       </translation>
     </entry>
     <entry id="8" >
@@ -82,7 +83,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>SCHLANGE</text>
-        <comment>Reptile with no legs</comment>
+        <comment>Reptil ohne Beine</comment>
       </translation>
     </entry>
     <entry id="9" >
@@ -90,7 +91,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>GIRAFFE</text>
-        <comment>Long-necked African animal</comment>
+        <comment>Afrikanisches Tier mit langem Hals</comment>
       </translation>
     </entry>
     <entry id="10" >
@@ -98,7 +99,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>ELEFANT</text>
-        <comment>Largest living land animal with a trunk</comment>
+        <comment>Größtes Landlebewesen mit langem Rüssel</comment>
       </translation>
     </entry>
     <entry id="11" >
@@ -106,7 +107,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>MAUS</text>
-        <comment>Small rodent with a long tail</comment>
+        <comment>Kleines graues Tier mit langem Schwanz</comment>
       </translation>
     </entry>
     <entry id="12" >
@@ -114,7 +115,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>WURM</text>
-        <comment>Animal with no backbone or limbs</comment>
+        <comment>Tier ohne Knochen</comment>
       </translation>
     </entry>
     <entry id="13" >
@@ -122,7 +123,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>LIBELLE</text>
-        <comment>Large insect with transparent wings</comment>
+        <comment>Großes Insekt mit durchsichtigen Flügeln</comment>
       </translation>
     </entry>
     <entry id="14" >
@@ -130,7 +131,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>PINGUIN</text>
-        <comment>Sea bird of the Antarctic regions</comment>
+        <comment>Seevogel aus arktischen Regionen</comment>
       </translation>
     </entry>
     <entry id="15" >
@@ -138,7 +139,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>HASE</text>
-        <comment>Burrowing animal with long ears</comment>
+        <comment>Hüpfer mit langen Ohren</comment>
       </translation>
     </entry>
     <entry id="16" >
@@ -146,7 +147,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>HAMSTER</text>
-        <comment>Small mouse-like rodent, kept as pets</comment>
+        <comment>Kleines felliges Haustier oder Feldtier</comment>
       </translation>
     </entry>
     <entry id="17" >
@@ -154,7 +155,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>WOLF</text>
-        <comment>Fierce, wild animal of the dog family</comment>
+        <comment>Wildes Rudeltier, Verwandter des Hundes</comment>
       </translation>
     </entry>
     <entry id="18" >
@@ -162,7 +163,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>LÖWE</text>
-        <comment>Large, powerful animal of the cat family</comment>
+        <comment>Große kräftige afrikanische Katze</comment>
       </translation>
     </entry>
     <entry id="19" >
@@ -170,7 +171,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>TIGER</text>
-        <comment>Large Asian animal of the cat family</comment>
+        <comment>Große kräftige asiatische Katze</comment>
       </translation>
     </entry>
     <entry id="20" >
@@ -178,7 +179,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>KRAKE</text>
-        <comment>Sea animal with eight long tentacles</comment>
+        <comment>Seelebewesen mit acht Tentakeln</comment>
       </translation>
     </entry>
     <entry id="21" >
@@ -186,7 +187,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>NASHORN</text>
-        <comment>Large, thick-skinned animal of Africa</comment>
+        <comment>Großes dickhäutiges Landlebewesen aus Afrika</comment>
       </translation>
     </entry>
     <entry id="22" >
@@ -194,7 +195,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>Igel</text>
-        <comment>Small, with a back covered in stiff spines</comment>
+        <comment>Klein, mit vielen Stacheln auf dem Rücken</comment>
       </translation>
     </entry>
     <entry id="23" >
@@ -202,7 +203,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>Rentier</text>
-        <comment>Deer with large antlers</comment>
+        <comment>Rudolph das kleine ...</comment>
       </translation>
     </entry>
     <entry id="24" >
@@ -210,13 +211,14 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>EICHHÖRNCHEN</text> 
-	<comment>Small tree-climbing animal with a bushy tail</comment>
+	<comment>Klettert auf Bäume, buschiger Schwanz</comment>
       </translation>
     </entry> <entry id="25" >
       <inactive>false</inactive> <inquery>false</inquery> <translation 
       id="0" >
         <text>SCHILDKRÖTE</text>
-        <comment>A slow-moving, four-footed reptile</comment>
+        <comment>Sehr langsame Fortbewegung, durch dicken Panzer 
+geschützt</comment>
       </translation>
     </entry>
     <entry id="26" >
@@ -224,7 +226,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>NILPFERD</text>
-        <comment>Large African river animal</comment>
+        <comment>Großes afrikanisches Flusstier</comment>
       </translation>
     </entry>
     <entry id="27" >
@@ -232,7 +234,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>DINO</text>
-        <comment>Extinct reptile</comment>
+        <comment>Ausgestorbenes Reptil</comment>
       </translation>
     </entry>
     <entry id="28" >
@@ -240,7 +242,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>ADLER</text>
-        <comment>Large bird of prey</comment>
+        <comment>Großer Raubvogel</comment>
       </translation>
     </entry>
     <entry id="29" >
@@ -248,7 +250,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>HAI</text>
-        <comment>Large sea fish with a triangular fin</comment>
+        <comment>Großer Fisch mit Dreiecksflosse</comment>
       </translation>
     </entry>
     <entry id="30" >
@@ -256,7 +258,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>ENTE</text>
-        <comment>Swimming bird</comment>
+        <comment>Schwimmvogel</comment>
       </translation>
     </entry>
     <entry id="31" >
@@ -264,7 +266,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>FISCH</text>
-        <comment>Live in water</comment>
+        <comment>Lebt im Wasser</comment>
       </translation>
     </entry>
     <entry id="32" >
@@ -272,7 +274,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>PAPAGEI</text>
-        <comment>Can repeat your words</comment>
+        <comment>Spricht alles nach</comment>
       </translation>
     </entry>
     <entry id="33" >
@@ -280,7 +282,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>FROSCH</text>
-        <comment>Small green jumping animal</comment>
+        <comment>Klein und grün. Springt.</comment>
       </translation>
     </entry>
     <entry id="34" >
@@ -288,7 +290,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>SCHNECKE</text>
-        <comment>Slow-moving, has a spiral shell</comment>
+        <comment>Klein und langsam mit Schleimspur</comment>
       </translation>
     </entry>
     <entry id="35" >
@@ -296,7 +298,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>KAMEL</text>
-        <comment>Can survive a long time in the desert</comment>
+        <comment>Kann lange ohne Wasser auskommen</comment>
       </translation>
     </entry>
     <entry id="36" >
@@ -304,7 +306,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>ALIGATOR</text>
-        <comment>Reptile of the crocodile family</comment>
+        <comment>Reptil aus der Familie der Krokodile</comment>
       </translation>
     </entry>
     <entry id="37" >
@@ -312,7 +314,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>MOSKITO</text>
-        <comment>Its bite spreads malaria</comment>
+        <comment>Überträgt Malaria</comment>
       </translation>
     </entry>
     <entry id="38" >
@@ -320,7 +322,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>SCHAF</text>
-        <comment>Grass-eating animal with a thick fleecy coat</comment>
+        <comment>Liefert Wolle</comment>
       </translation>
     </entry>
     <entry id="39" >
@@ -328,7 +330,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>MUSCHEL</text>
-        <comment>Water animal that has a shell</comment>
+        <comment>Meeresfrucht mit Schale</comment>
       </translation>
     </entry>
     <entry id="40" >
@@ -336,7 +338,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>KÄTZCHEN</text>
-        <comment>the young of a cat, ferret, etc.</comment>
+        <comment>Junge Katze</comment>
       </translation>
     </entry>
     <entry id="41" >
@@ -344,7 +346,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>EISVOGEL</text>
-        <comment>Small bird with bright bluish plumage</comment>
+        <comment>Kleiner Vogel mit dichtem Gefieder</comment>
       </translation>
     </entry>
     <entry id="42" >
@@ -352,7 +354,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>SCHWEINCHEN</text>
-        <comment>young pig</comment>
+        <comment>Kleines Schwein</comment>
       </translation>
     </entry>
     <entry id="43" >
@@ -360,7 +362,7 @@ Fell</comment><!--Translate all comment tags content-->
       <inquery>false</inquery>
       <translation id="0" >
         <text>TRUTHAHN</text>
-        <comment>Large bird reared for its flesh</comment>
+        <comment>Großer Vogel. Thanks Giving</comment>
       </translation>
     </entry>
   </entries>
